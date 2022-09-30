@@ -54,7 +54,7 @@ NPM and node.js is needed to install and run.
 
 Instructions!
 
-1.   Download RSIPredOb.js
+1.   Download PancakePrediction.js
 2.   "npm i taapi web3 graceful-fs dotenv binance-api-node"
 3.   Get non-rate limited or private http provider for Binance Smart Chain.
 3.   Fill out env file! Save as .env
