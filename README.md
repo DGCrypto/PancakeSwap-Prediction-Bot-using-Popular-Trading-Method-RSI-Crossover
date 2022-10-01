@@ -20,9 +20,8 @@ RSI CrossOver Strategy
 
 
 **Trial Version** Will not claim rewards! 
-Full version with reward claiming is for sale via Telegram.
-Future versions with different indicators will be for sale soon!
-Small % of bet size is charged as usage fee in the free/trial version!
+Future versions with different indicators will be available soon.
+Small % of bet size is charged as usage fee.
 
 Telegram: https://t.me/+WRurSkMEq0RiOTRh
 
