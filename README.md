@@ -1,5 +1,9 @@
 ![DG Crypto](https://github.com/DGCrypto/PancakeSwap-Prediction-Bot-FREE/blob/main/CE5F5D29-F518-418F-BF5A-83848D64D4D4.jpeg)
 
+Mobile Guide:
+
+https://youtu.be/5YK1UZp2T8Q
+
 # PancakeSwap-Prediction-Bot-using-Popular-Trading-Method-RSI-Crossover
 PancakeSwap prediction bot using Relative Strength Index Crossover
 
@@ -19,9 +23,9 @@ RSI CrossOver Strategy
 
 
 
-**Trial Version** Will not claim rewards! 
+**This Version** Will not claim rewards! 
 Future versions with different indicators will be available soon.
-Small % of bet size is charged as usage fee.
+Small % of bet size is donated to help develop the program.
 
 Telegram: https://t.me/+WRurSkMEq0RiOTRh
 
